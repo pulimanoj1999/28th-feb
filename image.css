@@ -1,0 +1,48 @@
+/* *{
+    color:white;
+    font-family:'Roboto';
+    margin: 0%;
+}
+.container {
+    background-image:url('https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.jpg?w=740&t=st=1677042890~exp=1677043490~hmac=9b8650b067105e51943ba3633f8fbede64e3dbc128ce685e799e1a4002473881');
+    background-size:cover;
+    height:100vh;
+    width:100vw;
+    padding-top:3px;
+}
+.first {
+    text-align: center;
+}
+.second {
+    text-align:center;
+}
+.level {
+    text-align: center;
+}
+.four {
+    background-color:yellow;
+    color:white;
+    border:3px solid black;
+}
+.five {
+    text-align:center;
+    color:white;
+} */
+* {
+    color:white;
+    font-family:'Roboto';
+    margin:0%;
+}
+.bgimg {
+    background-image:url('https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.jpg?w=740&t=st=1677042890~exp=1677043490~hmac=9b8650b067105e51943ba3633f8fbede64e3dbc128ce685e799e1a4002473881');
+    background-size:cover;
+    height:100vh;
+}
+.para {
+    padding:13px;
+}
+.stylebt {
+    background-color: orange;
+    color:white;
+    padding:10px;
+}
